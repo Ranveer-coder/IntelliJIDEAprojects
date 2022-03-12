@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <source_groups>
+        <source_group_52711371-b07a-462c-9865-7be519e449b8>
+            <java_standard>12</java_standard>
+            <name>Java Source Group</name>
+            <source_extensions>
+                <source_extension>.java</source_extension>
+            </source_extensions>
+            <source_paths>
+                <source_path>../../../IdeaProjects/Functionalnterface/src/Functional5.java</source_path>
+            </source_paths>
+            <status>enabled</status>
+            <type>Java Source Group</type>
+            <use_jre_system_library>1</use_jre_system_library>
+        </source_group_52711371-b07a-462c-9865-7be519e449b8>
+        <source_group_cc966860-9acc-4c85-b3dc-32daf189fb62>
+            <java_standard>12</java_standard>
+            <name>Java Source Group</name>
+            <source_extensions>
+                <source_extension>.java</source_extension>
+            </source_extensions>
+            <source_paths>
+                <source_path>../../../IdeaProjects/Functionalnterface/src/Functional5.java</source_path>
+            </source_paths>
+            <status>enabled</status>
+            <type>Java Source Group</type>
+            <use_jre_system_library>1</use_jre_system_library>
+        </source_group_cc966860-9acc-4c85-b3dc-32daf189fb62>
+    </source_groups>
+    <version>8</version>
+</config>
